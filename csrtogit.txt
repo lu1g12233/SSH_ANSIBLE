@@ -10,8 +10,8 @@ nano csr1000v_config.txt
 sudo yum install git
 
 # Set up Git user information
-git config --global user.name "Your Name"
-git config --global user.email "your_email@example.com"
+git config --global user.name "lu1g12233"
+git config --global user.email "jamessalva9052@gmail.com"
 
 # @GITHUB
 
